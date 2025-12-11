@@ -1,0 +1,51 @@
+# PyCharm-specific files
+.idea/
+
+# Python-specific files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment folders (you can add your own folder name if different)
+venv/
+env/
+.venv/
+.env/
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.manifest
+*.spec
+
+# PyInstaller
+*.manifest
+*.spec
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+Desktop.ini
+
+# JetBrains Rider (for Unity projects)
+.idea/
+
+# Log files
+*.log
+
+# Test coverage reports
+.coverage
+*.cover
+.coverage.*
+nosetests.xml
+test_*.xml
+tox.ini
+
+# IDEs & editors
+.vscode/
+*.swp
