@@ -1,5 +1,7 @@
 # PyCharm-specific files
 .idea/
+dataset/
+*.bag
 
 # Python-specific files
 *.pyc
